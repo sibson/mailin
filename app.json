@@ -1,0 +1,13 @@
+{
+    "name": "mailin",
+    "website": "https://github.com/sibson/mailin",
+    "repository": "https://github.com/sibson/mailin",
+    "keywords": [
+        "email",
+        "webhook",
+        "github"
+    ],
+    "addons": [
+        "redistogo"
+    ],
+}

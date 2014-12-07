@@ -1,0 +1,28 @@
+{
+  "name": "mailin",
+  "version": "0.1.0",
+  "description": "mailin ======",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sibson/mailin.git"
+  },
+  "keywords": [
+    "email",
+    "github",
+    "webhook"
+  ],
+  "author": "Marc Sibson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sibson/mailin/issues"
+  },
+  "homepage": "https://github.com/sibson/mailin",
+  "dependencies": {
+    "body-parser": "^1.10.0",
+    "express": "^4.10.4"
+  }
+}
